@@ -71,7 +71,6 @@ impl Blockchain {
                 return false;
             }
         }
-iq
 
         true
     }
