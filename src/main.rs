@@ -70,7 +70,8 @@ impl Blockchain {
             if current_block.previous_hash != previous_block.hash {
                 return false;
             }
-        }iq
+        }
+iq
 
         true
     }
